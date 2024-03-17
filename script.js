@@ -1,7 +1,7 @@
 var heading= document.createElement("h1");
 heading.innerHTML="Promise Task 2";
 var p= document.createElement("p");
-p.innerHTML="This is task for fetching the Api data and displaying the content using promise async and await (Please wait for till image load)"
+p.innerHTML="This is task for fetching the Api data and displaying the content using promise async and await (Please wait logo is loading)"
 var container=document.createElement("div");
 container.className="container";
 var row = document.createElement("div");
