@@ -1,0 +1,34 @@
+body{
+    background-image: linear-gradient(to right, #33001b, #ff0084); 
+}
+.container{
+    margin-top: 50px;
+}
+.card{
+    text-align: center;
+       margin: 15px ;
+     color:white;
+}
+.card-body{
+    background-image: linear-gradient(to bottom, #ff0084, #33001b); 
+    
+}
+.card-header {
+    background-image: linear-gradient(to left, #ff0084, #33001b); 
+    color: white;
+}
+p{
+    margin-top: 15px;
+}
+.row{
+    flex-wrap: wrap;
+}
+.card-img-top{
+   width: 200px;
+   height: 100px;
+}
+h1,p{
+    margin: 25px;
+    color: white;
+    text-align: center;
+}
